@@ -1,4 +1,4 @@
 # screenShot
 screenShot
 
-# 在控制台输入即可截屏
+# 在控制台输入脚本也可截屏
